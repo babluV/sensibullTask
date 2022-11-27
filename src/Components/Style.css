@@ -1,0 +1,74 @@
+
+.ArchiveTable{
+    border: solid 2px black;
+    border-radius: 5px;
+    margin-top:5%;
+    margin-left:15%;
+
+}
+.ArchiveTable tr{
+border: 2px solid rgb(240, 5, 5);
+text-align: center;
+background-color: blanchedalmond;
+
+}
+.ArchiveTable th{
+    border: 2px blueviolet solid;
+    background-color: blue;
+    color: beige;
+   
+        
+}
+.Archive{
+    border: px solid rgb(198, 30, 30);
+    border-radius: 5px;
+    
+}
+
+.Archive h1{
+    margin-left: 18rem;
+    color: brown;
+}
+.ArchiveTable tr:nth-child(even) {
+
+    background-color: rgb(126, 204, 218);
+}
+.Homepg button{
+   
+    margin-left: 5rem; 
+
+    color: white;
+    border: 20px green;
+    background-color: rgb(7, 7, 241);
+    border: 2px solid rgb(68, 95, 176);
+    cursor: pointer;
+
+}  
+   button :hover{
+    color: green;
+   }
+
+   .sortby{
+     display: inline;
+    border: 2 px solid red;
+    border-width: 500px;
+    background-color: aqua;
+    margin-left: 15rem;
+    margin-top: 5rem;
+   }
+  .search{
+    margin-top: 1rem;
+    margin-left:10rem;
+    width: 25rem;
+  }
+  .container{
+   display: inline-block;
+    border: 2px red solid;
+    width: 20rem;
+    border-radius:3rem;
+    margin-left: 15rem;
+    margin-top: 5rem;
+    background-color: coral;
+    height: 10rem;
+  }
+   
